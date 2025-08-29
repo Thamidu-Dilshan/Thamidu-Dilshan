@@ -16,19 +16,12 @@
 
 ----------------------
 <br></br>
+<h3 align="left"> My GitHub Statistics 👇 </h3>
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
+| ![Thamidu's github stats](https://github-readme-stats.vercel.app/api?username=Thamidu-Dilshan&show_icons=true&theme=tokyonight) | ![Thamidu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thamidu-Dilshan&theme=tokyonight) |
+| --- | --- |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamidu-Dilshan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Thamidu-Dilshan&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thamidu-Dilshan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Thamidu-" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Thamidu-Dilshan&show_icons=true&theme=dark&locale=en" alt="Thamidu-Dilshan" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
